@@ -2,7 +2,8 @@
 
 # Project Name: Hello Microverse
 
-> Description the project.
+> Description the project: This project is about creating a github repository and implementing the basic of understanding git and github flow.
+
 
 
 ## Built With
