@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name  Hello-Microverse
 
-> Description the project.
+> Description of the project: This project is meant to learn the best practise for creating a professional repository. 
 
 
 ## Built With
 
-- Major languages
+- Major languages: HTML, CSS
 - Frameworks
-- Technologies used
+- Technologies used: Git
 
 ## Live Demo (if available)
 
