@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name: Hello Microverse
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
+- Major languages: HTML, CSS 
 - Frameworks
-- Technologies used
+- Technologies used: Git
 
 ## Live Demo (if available)
 
@@ -18,13 +18,11 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+This project is about creating a github repository and implementing the basic of understanding git and github flow.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites Git. Visual Studio Code
 
 ### Setup
 
